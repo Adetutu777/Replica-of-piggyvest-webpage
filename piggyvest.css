@@ -31,7 +31,7 @@ body {
 	font-size: 30px;
  color: black;
  border-radius: 20px 20px 20px 0;
-  width:345px;
+  width:350px;
   background:#fff;
   padding:50px ;
   margin:4% auto;
@@ -39,9 +39,9 @@ body {
 }
 
 .input-box{
-	width: 300px;
+	width: 330px;
 	padding: 20px;
-	margin: 5px 0px;
+	margin: 5px 0;
 	color: #eee;
 	border-radius: 5px;
 	background-color:#edf2f7;
@@ -69,15 +69,4 @@ h4{
 	padding: 5px;
 	font-size: 15px;
 	margin-top: 13px;
-}
-
-select{
-	color: #1a202c;
-    background: #edf2f7;
-    border: none;
-    border-radius: 5px;
-    padding: 0.96rem 0.4rem;
-    width: 340px;
-	padding: 20px;
-    margin: 5px 0;
 }
