@@ -31,17 +31,17 @@ body {
 	font-size: 30px;
  color: black;
  border-radius: 20px 20px 20px 0;
-  width:350px;
+  width:345px;
   background:#fff;
   padding:50px ;
   margin:4% auto;
-  height: 760px;
+  height: 780px;
 }
 
 .input-box{
-	width: 330px;
+	width: 300px;
 	padding: 20px;
-	margin: 5px 0;
+	margin: 5px 0px;
 	color: #eee;
 	border-radius: 5px;
 	background-color:#edf2f7;
@@ -69,4 +69,15 @@ h4{
 	padding: 5px;
 	font-size: 15px;
 	margin-top: 13px;
+}
+
+select{
+	color: #1a202c;
+    background: #edf2f7;
+    border: none;
+    border-radius: 5px;
+    padding: 0.96rem 0.4rem;
+    width: 340px;
+	padding: 20px;
+    margin: 5px 0;
 }
